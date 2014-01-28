@@ -1,0 +1,9 @@
+Motif finding by Alex Brauckmann 2014
+-----------------------
+
+- status: in development
+
+- usage: - define parameters in head of main.c
+
+- todo:	- dynamic arrays at runtime
+	- proper pseudo-count computation
