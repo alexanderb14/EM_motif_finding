@@ -1,4 +1,9 @@
-EM_motif_finding
-================
+Implementation of EM algo for Motif finding
+-----------------------
 
-exspectation maximization algorithm for sequence motif finding
+- status: in development
+
+- usage: - define parameters in head of main.c
+
+- todo:	- dynamic arrays at runtime
+	- proper pseudo-count computation
